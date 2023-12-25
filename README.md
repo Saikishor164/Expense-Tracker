@@ -65,8 +65,4 @@ Feel free to contribute to the project. Create a pull request with your changes,
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
 
-- [Any credits or acknowledgments you want to include]
-
-```
