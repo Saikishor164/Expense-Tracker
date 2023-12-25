@@ -64,5 +64,3 @@ Feel free to contribute to the project. Create a pull request with your changes,
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-
